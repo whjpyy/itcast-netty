@@ -1,4 +1,4 @@
-package cn.itcast.netty.c1;
+package cn.itcast.netty.c2;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelHandlerContext;
